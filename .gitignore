@@ -1,0 +1,59 @@
+# macOS specific files/directories
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build results
+bin/
+obj/
+artifacts/
+
+# Visual Studio Code specific files/directories
+.vscode/
+*.code-workspace
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# NuGet
+**/packages/*
+*.nupkg
+*.snupkg
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# StyleCop
+StyleCopReport.xml
+
+# Files and directories created by Visual Studio
+Generated\ Files/
+[Tt]humbs.db
+*.dbmdl
+*.jfm
+*.pfx
+*.pidb
+*.user
+*.bak
+*.cache
+*.sln.ide-shm
+*.sln.ide-wal
+*.suo
+*.sln.docstates
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+_Analyzer/
+node_modules/
+[Nn]ode[Bb]uild/
+[Tt]est[Rr]esult*/
